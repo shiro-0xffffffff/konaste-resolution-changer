@@ -1,0 +1,1 @@
+# konaste--resolution-changer
